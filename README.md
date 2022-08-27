@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @alejazagarcia
+- 👀 I’m interested in climatol but using precipitation data
